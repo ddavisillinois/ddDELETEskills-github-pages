@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: NVidia - this is the way!
 ---
